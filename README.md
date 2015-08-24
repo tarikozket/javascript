@@ -588,7 +588,7 @@ Other Style Guides
 
 ## Arrow Functions
 
-  - [8.1](#8.1) <a name='8.1'></a> When you must use function expressions (as when passing an anonymous function), use arrow function notation.
+  - [8.1](#8.1) <a name='8.1'></a> When you must use function expressions (as when passing an anonymous function) use arrow function notation.
 
   > Why? It creates a version of the function that executes in the context of `this`, which is usually what you want, and is a more concise syntax.
 
